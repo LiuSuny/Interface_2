@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Interface_2.Cleaner" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Cleaner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_2.Detergent" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAAAAEAAAA=</HashCode>
+      <FileName>Detergent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_2.Disinfectant" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAACAAAAAAAAA=</HashCode>
+      <FileName>Disinfectant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_2.FoodProducts" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAJAAAAAAAAAAAAAAAAAgQAAAAEAAACAAAAAAAAA=</HashCode>
+      <FileName>FoodProducts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_2.Fruits" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAE=</HashCode>
+      <FileName>Fruits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_2.HouseholdChemical" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAJAAAAAAAAAAAAAAAAAgAAAAIAAAACAAAAAAAAA=</HashCode>
+      <FileName>HouseholdChemical.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_2.Meat" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Meat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_2.Products" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAJAAAQAAAAAAAAAAAQQgAAAEAAAAACEAAAABAAA=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Interface_2.Program" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_2.Vegetable" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAA=</HashCode>
+      <FileName>Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Interface_2.IProducts" Collapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAJAAAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>IProducts.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
